@@ -8,7 +8,7 @@
 |---|
 | **GenLayer AI compares a later public agent result against a pinned task specification. The contract releases GEN only to the bound agent wallet on PASS.** |
 
-[![Live App](https://img.shields.io/badge/Live-agent--proof.vercel.app-0f172a?style=for-the-badge&logo=vercel)](https://agent-proof.vercel.app)
+[![Live App](https://img.shields.io/badge/Live-agent--proof--eight.vercel.app-0f172a?style=for-the-badge&logo=vercel)](https://agent-proof-eight.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-hoasine%2Fagent--proof-111827?style=for-the-badge&logo=github)](https://github.com/hoasine/agent-proof)
 [![Contract](https://img.shields.io/badge/Contract-0xe919F0FC…B3c3-1f6feb?style=for-the-badge)](#deployment)
 [![Frontend](https://img.shields.io/badge/Frontend-Next.js_+_TypeScript-111827?style=for-the-badge)](#local-setup)
@@ -28,7 +28,7 @@ AgentProof is an **evidence-based agent task settlement** / **task acceptance pr
 
 | Item | Value |
 |------|--------|
-| Live app | https://agent-proof.vercel.app |
+| Live app | https://agent-proof-eight.vercel.app |
 | GitHub | https://github.com/hoasine/agent-proof |
 | Network | GenLayer Studionet (`chainId` `61999`) |
 | Contract | `0xe919F0FC4934eFe9887a3E31f72860684FB6B3c3` |
