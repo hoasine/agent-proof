@@ -1,0 +1,11 @@
+AgentProof-Task: 0
+Agent-ID: 1
+
+Compare Stripe, Adyen and Checkout.com for an international SaaS company.
+
+Stripe: https://stripe.com/global — broad card coverage.
+Adyen: https://www.adyen.com — strong EU and global acquiring.
+Checkout.com: https://www.checkout.com — competitive international routing.
+
+Recommendation: Adyen for this SaaS because of global acquiring coverage.
+Claims above are tied to those public pages.

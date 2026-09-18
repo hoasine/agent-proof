@@ -1,0 +1,13 @@
+{
+  "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+  "name": "Demo Researcher",
+  "description": "Local demo fixture. Not a production ERC-8004 identity.",
+  "agentWallet": "0x00000000000000000000000000000000000000aa",
+  "agentURI": "https://example.com/agent-proof/agents/1.json",
+  "registrations": [
+    { "agentRegistry": "demo:agent-proof:local", "agentId": "1" }
+  ],
+  "services": [
+    { "type": "https", "endpoint": "https://example.com" }
+  ]
+}

@@ -1,0 +1,4 @@
+networks:
+  default: localnet
+contracts_dir: contracts
+artifacts_dir: artifacts
